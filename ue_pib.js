@@ -1,4 +1,4 @@
-const data var UE = {
+const ue_pib var UE = {
 "type": "FeatureCollection",
 "name": "ue_pib_pourcent",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
